@@ -1,0 +1,13 @@
+#lb1
+#lb
+#start of data mem 
+#ag6618
+#99
+#
+#
+
+lui $3, 0x2000
+addi $4, $4, 99
+sb $4, 0($3)
+lb $2, 0($3)
+jr $0 
