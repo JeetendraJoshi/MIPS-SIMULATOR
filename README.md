@@ -15,7 +15,7 @@ To run the simulator against the testbench use commands:
 
 Both the simulator and testbench were implemented from scratch without the use of the pre-existing skeleton code. 
 
-# Acknowlegdements
+# Acknowledgements
 
 Aditya Gupta for collaborating on the implementation of both the testbench and simulator.
 
